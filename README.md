@@ -1,15 +1,13 @@
 ### Escuela Colombiana de Ingeniería
-### Testing y Aseguramiento de Calidad de Software - TACS
+### Arquitecturas Empresariales - AREP
 
 # Food App
 
 ## Integrantes
 
-  * Daniel Felipe Alfonso Bueno
+  * Santiago Laiton Cubides
   * Steven Nikolai Bermudez Vega
-  * Juan Carlos Garcia Garzón
-  * Johann Sebastian Paez Campos
-  * Daniel Felipe Walteros Trujillo
+  * Steven Ricardo Garzon Reina
 
 
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://foodapitacs.herokuapp.com/)
